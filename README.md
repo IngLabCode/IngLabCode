@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ingilab</h1>
 <h3 align="center">A passionate backend developer from Azerbaijan</h3>
 
-<p align="left"> <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHRjNXRydGdwczZjN2hnb3M1Mnh2ZmJlMWowczk0YjFhMDczOWJmOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" alt="inglabcode" /> </p>
+<p align="left"> <img src="https://sl.bing.net/c6VCSOqJQwC" alt="inglabcode" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=inglabcode" alt="inglabcode" /></a> </p>
 
